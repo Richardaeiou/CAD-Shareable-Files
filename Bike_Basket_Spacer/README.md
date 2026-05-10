@@ -5,3 +5,5 @@ This support was created after I bought a handle mount basket for my Wife's new 
 I created this bracket to provide a spacer to keep the basket upright by resting on the head tube.
 
 It was created in OpenScad to allow parameters to be altered to get it right - the STL file here suits our particular bike and basket, but the params allow you to modify it (to an extent) to suit by opening the scad file in OpenSCAD. 
+
+It has a slot adjacent to the semicircular section that sits against the head tube, allowing a velcro or cable tie to be used to hold it in place.
